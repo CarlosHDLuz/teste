@@ -1,3 +1,6 @@
+
+## 'Como executar' ao final deste arquivo! 
+
 <p align="center"><img src="http://site.federalst.com.br/fsmail.jpg"></p>
 
 
@@ -67,3 +70,13 @@ Entre em contato conosco, caso você tenha alguma dúvida ou quando terminar o p
 - Você tem 2 dias pra realizar esse teste prático.
 
 ## SUBMETA SEU PROJETO, MESMO QUE VOCÊ NÃO O TERMINE. NESTE CASO, NOS EXPLIQUE QUAIS FORAM AS SUAS DIFICULDADES. 
+
+
+# Como executar
+- Clonar/Baixar repositório;
+- Atualizar arquivos '.env' de acordo com ambiente de execução;
+- Alcançar o caminho onde o repositorio foi clonado/baixado;
+- Rodar as Migrations: 'php artisan migration';
+- Rodar as Seeds: 'php artisan db:seed';
+- Servir a aplicação: 'php artisan serve';
+
